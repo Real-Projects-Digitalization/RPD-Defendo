@@ -20,4 +20,4 @@ All the information about our prototype can be found on our wiki page [Prototype
 
 Github Pages
 
-Team Defendo: Fevzi Vila, Alba Poveda, Maxi Brauckmann, Mario Pérez and Bongiwe Hlophe.
+**Team Defendo**: Fevzi Vila, Alba Poveda, Maxi Brauckmann, Mario Pérez and Bongiwe Hlophe.
