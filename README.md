@@ -18,6 +18,6 @@ All the information about our prototype can be found on our wiki page [Prototype
 
 [Defendo Wiki](https://github.com/Real-Projects-Digitalization/RPD-Defendo/wiki)
 
-Github Pages
+[Github Pages](https://real-projects-digitalization.github.io/RPD-Defendo/)
 
 **Team Defendo**: Fevzi Vila, Alba Poveda, Maxi Brauckmann, Mario Pérez and Bongiwe Hlophe.
