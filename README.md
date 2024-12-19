@@ -20,4 +20,6 @@ All the information about our prototype can be found on our wiki page [Prototype
 
 [Github Pages](https://real-projects-digitalization.github.io/RPD-Defendo/)
 
+[Our interactive Prototype](https://www.figma.com/proto/KPjXsvOEFz0bN2oz56Rex8/Defendo-Prototype?node-id=27-53&t=fdNdp1PFEtSHvEzz-1)
+
 **Team Defendo**: Fevzi Vila, Alba Poveda, Maxi Brauckmann, Mario Pérez and Bongiwe Hlophe.
