@@ -1,3 +1,5 @@
+
+![IMG_8663](https://github.com/user-attachments/assets/23ba5173-d8c2-4fab-85b7-2eb3ca62fd77)
 # ABOUT US
 
 Welcome to Defendo, where we're revolutionizing campus access and security. Our team has developed a groundbreaking Digital ID Card application that transforms campus life by integrating cutting-edge technology with established German hardware solutions.
