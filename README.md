@@ -39,7 +39,7 @@ Through partnerships with leading German providers like:
 - Real-time monitoring
 
 ## Technical Implementation
-All technical details about our prototype are available on our [wiki page](https://github.com/Real-Projects-Digitalization/RPD-Defendo/wiki/Prototyping).
+All technical details about our prototype are available on our [wiki page](https://github.com/Real-Projects-Digitalization/RPD-Defendo/wiki).
 
 ## Experience Defendo
 - [Defendo Wiki](https://github.com/Real-Projects-Digitalization/RPD-Defendo/wiki)
