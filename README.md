@@ -47,8 +47,4 @@ All technical details about our prototype are available on our [wiki page](https
 - [Interactive Prototype](https://www.figma.com/proto/KPjXsvOEFz0bN2oz56Rex8/Defendo-Prototype?node-id=27-53&t=fdNdp1PFEtSHvEzz-1)
 
 ## Team Defendo
-- Fevzi Vila
-- Alba Poveda
-- Maxi Brauckmann
-- Mario Pérez
-- Bongiwe Hlophe
+![image](https://github.com/user-attachments/assets/a3c16247-9c03-4357-ac77-e45b6cb83ec2)
